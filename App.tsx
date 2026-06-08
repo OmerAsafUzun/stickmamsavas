@@ -4,13 +4,13 @@
  */
 
 import React, { useState, useEffect } from "react";
-import LobbyManager from "./components/LobbyManager";
-import SkinShop from "./components/SkinShop";
-import GameCanvas from "./components/GameCanvas";
+import LobbyManager from "./LobbyManager";
+import SkinShop from "./SkinShop";
+import GameCanvas from "./GameCanvas";
 import { GAME_MAPS } from "./maps";
 import { HATS_DATA } from "./types";
 import { Play, Users, ShoppingBag, ShieldCheck, Coins, Award, HelpCircle, Edit3, ArrowLeft } from "lucide-react";
-import { HatGraphic } from "./components/HatGraphic";
+import { HatGraphic } from "./HatGraphic";
 
 export default function App() {
   // Navigation states

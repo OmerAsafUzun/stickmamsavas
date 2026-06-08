@@ -4,7 +4,7 @@
  */
 
 import React, { useState, useEffect } from "react";
-import { HATS_DATA, HatCustomization } from "../types";
+import { HATS_DATA, HatCustomization } from "./types";
 import { Coins, Check, Lock, ShoppingBag } from "lucide-react";
 import { HatGraphic } from "./HatGraphic";
 

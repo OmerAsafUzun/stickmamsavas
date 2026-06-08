@@ -1,0 +1,6 @@
+{
+  "name": "Cop Adam Savaslari",
+  "description": "Kirmizi ve Mavi cop adamlarin platform uzerinde farkli haritalar ve dengeli silahlarla savastigi, tek oyunculu (bota karsi) veya lobi kodlu iki oyunculu, oyun ici magaza ve sohbet ozellikli aksiyon oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
